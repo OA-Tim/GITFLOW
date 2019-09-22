@@ -1,0 +1,3 @@
+SELECT sysdate
+FROM   daul
+/
